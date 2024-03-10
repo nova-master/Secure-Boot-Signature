@@ -5,7 +5,7 @@ Retrieve secure boot sign
 
 This UEFI application, developed using the UEFI framework, serves as a tool to check the Secure Boot state and EFI variables. With a concise and efficient codebase, it provides valuable insights into the system's security posture and allows check to the SecureBoot variable.
 
-## Introduction (100 words)
+## Introduction 
 
 This UEFI application analyzes the Secure Boot state by retrieving the SecureBoot variable. It distinguishes between secure and non-secure boot modes, aiding in system diagnostics. Additionally, the application demonstrates the manipulation of EFI variables [not SecureBoot variable  #readonly]. Developers can leverage this code for security-related customizations, ensuring optimal system configurations. Ideal for UEFI-compatible systems, this tool contributes to secure boot management.
 
